@@ -14,7 +14,7 @@ TransPay is an online payment platform.
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Figma Link](https://www.figma.com/file/zJABOP58JFsLGdeXhtI5MN/TransPay?type=design&node-id=0%3A1&mode=design&t=qPeuBLqxAatpG3Bm-1)
 
 
 # TransPay

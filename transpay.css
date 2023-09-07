@@ -116,6 +116,12 @@ nav ul>li>a.nav-link{
 
 /* sec1-home ends here */
 
+/* About us starts here */
+.top-dot-img,.bottom-dot-img{
+    width: 8%;
+}
+/* About us ends here */
+
 
 /* Footer section starts here */
 .footer-font-size{
@@ -163,6 +169,16 @@ section.banner{
     flex-shrink: 0;
     
 }
+
+/* about us page starts here */
+.top-dot-img,.bottom-dot-img{
+    width: 20%;
+}
+
+#img-bus{
+    width: 90% !important;
+}
+/* about us page ends here */
 
 
 }

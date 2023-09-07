@@ -137,7 +137,8 @@ section.banner{
     position: absolute;
     top: -40%;
     left: 9%;
-    width: 17%;
+    /* width: 17%; */
+    width: 200px;
     flex-shrink: 0;
 }
 
@@ -145,8 +146,23 @@ section.banner{
 /* Mobile Version starts here */
 @media (max-width: 576px) {  
 
+.side-image{
+    position: absolute;
+    bottom: 0;
+    transform: translate(220%,34%);
+    width: 30%;
+}
+    
 
-
+ .mobile-mockup-banner{
+    position: static;
+    top: -40%;
+    left: 9%;
+    /* width: 17%; */
+    width: 190px;
+    flex-shrink: 0;
+    
+}
 
 
 }

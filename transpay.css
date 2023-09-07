@@ -151,7 +151,17 @@ section.banner{
 
 /* Mobile Version starts here */
 @media (max-width: 576px) {  
-
+/* nav starts here */
+nav ul{
+    /* border: 1px solid red; */
+    height: 27vh;
+    justify-content: space-evenly;
+}
+nav ul>li>a.nav-link{
+    color: #3F3D56;
+    font-size: larger;
+}
+/* nav ends here */
 .side-image{
     position: absolute;
     bottom: 0;

@@ -5,10 +5,20 @@
 
 /* this section is used to name a custom class */
 
+/* custom class */
+
 .blue-text{
     color: #238CA4;
 }
 
+.blue-bg{
+    background: #238CA4;
+}
+.underline-text{
+    border-bottom: 3px solid #FF933A;
+}
+
+/* custom class ends */
 
 /* Nav starts here */
 nav div.btn-group-nav{
@@ -62,7 +72,7 @@ width: ;
     line-height: 189.042%; /* 1.89044rem */
     /* width: 36.4375rem; */
     /* width: 65%; */
-    border: 1px solid #238CA4;
+    /* border: 1px solid #238CA4; */
 }
 
 /* sec1-btn-wrapper starts here */
@@ -106,7 +116,7 @@ section.sec1-home .sec1-btn-wrapper{
     line-height: 189.042%; /* 1.89044rem */
     /* width: 36.4375rem; */
     /* width: 65%; */
-    border: 1px solid #238CA4;
+    /* border: 1px solid #238CA4; */
 }
 
 .sec1-home-bg-img{

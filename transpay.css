@@ -11,6 +11,10 @@
     color: #238CA4;
 }
 
+.light-blue-bg{
+    background-color: #F5F9FF;
+}
+
 .blue-bg{
     background: #238CA4;
 }
@@ -36,7 +40,7 @@ nav div.btn-group-nav{
 nav ul>li>a.nav-link{
     color: #3F3D56;
 }
-nav div.btn-group-nav>#nav-btn-register{
+ div.btn-group-nav>#nav-btn-register{
     display: inline-flex;
     /* height: 3rem; */
     padding: 0.75rem 1rem;
@@ -48,7 +52,7 @@ nav div.btn-group-nav>#nav-btn-register{
     color: #fff;
     background: #FF933A;
 }
-nav div.btn-group-nav>#nav-btn-login{
+ div.btn-group-nav>#nav-btn-login{
     display: inline-flex;
     /* height: 3rem; */
     padding: 0.75rem 1rem;
@@ -63,9 +67,9 @@ nav div.btn-group-nav>#nav-btn-login{
 /* Nav ends here */
 
 /* sec1-home Starts here */
-section.sec1-home .sec1-text-wrapper{
-width: ;
-}
+/* section.sec1-home .sec1-text-wrapper{
+
+} */
 
 .sec1-home-tp{
     color: #3F3D56;
@@ -104,8 +108,20 @@ width: ;
     /* width: 77%; */
 }
 
+.side-image{
+    position: absolute;
+    bottom: 0;
+    transform: translate(106rem,35%);
+}
+
 
 /* sec1-home ends here */
+
+/* Footer section starts here */
+.footer-font-size{
+    font-size: smaller;
+}
+/* Footer section ends here */
 
 /* Mobile Version starts here */
 @media (min-width <= 576px) {  

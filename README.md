@@ -41,7 +41,7 @@ Link to production site: TransPay.com
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/chinedugabriel/Transpay
 ```
 
 Go to the project directory and run index.html to view project

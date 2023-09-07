@@ -1,0 +1,132 @@
+*,body{
+    font-family: 'Poppins', sans-serif;
+    padding: 0px;
+}
+
+/* this section is used to name a custom class */
+
+.blue-text{
+    color: #238CA4;
+}
+
+
+/* Nav starts here */
+nav div.btn-group-nav{
+    width: 12rem;
+    border: 1px solid red !important;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    justify-self: center;
+}
+nav ul>li>a.nav-link{
+    color: #3F3D56;
+}
+nav div.btn-group-nav>#nav-btn-register{
+    display: inline-flex;
+    /* height: 3rem; */
+    padding: 0.75rem 1rem;
+    justify-content: center;
+    align-items: center;
+    gap: 0.625rem;
+    flex-shrink: 0;
+    border-radius: 0.375rem;
+    color: #fff;
+    background: #FF933A;
+}
+nav div.btn-group-nav>#nav-btn-login{
+    display: inline-flex;
+    /* height: 3rem; */
+    padding: 0.75rem 1rem;
+    justify-content: center;
+    align-items: center;
+    gap: 0.625rem;
+    flex-shrink: 0;
+    color: #fff;
+    border-radius: 0.375rem;
+    background: #3F3D56;
+}
+/* Nav ends here */
+
+/* sec1-home Starts here */
+section.sec1-home .sec1-text-wrapper{
+width: ;
+}
+
+.sec1-home-tp{
+    color: #3F3D56;
+    font-family: Poppins;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 189.042%; /* 1.89044rem */
+    /* width: 36.4375rem; */
+    /* width: 65%; */
+    border: 1px solid #238CA4;
+}
+
+/* sec1-btn-wrapper starts here */
+section.sec1-home .sec1-btn-wrapper{
+    border: 1px solid red;
+    display: flex;
+    flex-flow: row nowrap;
+    /* width: 60%; */
+}
+/* sec1-btn-wrapper ends here */
+
+.sec1-home-bg-img{
+    /* background-image: url("./asset/character-working-from-home\ 1.png"); */
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: fit;
+    /* height: 100vh; */
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec1-home-bg-img>img{
+    /* width: 77%; */
+}
+
+
+/* sec1-home ends here */
+
+/* Mobile Version starts here */
+@media (min-width <= 576px) {  
+
+    /* sec1-home Starts here */
+.sec1-home-tp{
+    color: #3F3D56;
+    font-family: Poppins;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 189.042%; /* 1.89044rem */
+    /* width: 36.4375rem; */
+    /* width: 65%; */
+    border: 1px solid #238CA4;
+}
+
+.sec1-home-bg-img{
+    /* background-image: url("./asset/character-working-from-home\ 1.png"); */
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: fit;
+    /* height: 100vh; */
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec1-home-bg-img>img{
+    /* width: 85%; */
+}
+
+
+/* sec1-home ends here */
+
+}
+/* Mobile Version ends here */

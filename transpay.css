@@ -154,7 +154,7 @@ section.banner{
 /* nav starts here */
 nav ul{
     /* border: 1px solid red; */
-    height: 27vh;
+    height: 30vh;
     justify-content: space-evenly;
 }
 nav ul>li>a.nav-link{

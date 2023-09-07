@@ -1,5 +1,5 @@
 
-![Logo](transpay/transPay-logo.png)
+![Logo](./transPay-logo.png)
 
 
 # TransPay

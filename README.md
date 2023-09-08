@@ -55,7 +55,7 @@ Go to the project directory and run index.html to view project
 - [@Udehmercylina](https://github.com/Udehmercylina)
 
 
-## Tech Stack
+## Users
 
 - Lagos State transport
 

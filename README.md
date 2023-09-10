@@ -44,7 +44,7 @@ Clone the project
   git clone https://github.com/chinedugabriel/Transpay
 ```
 
-Go to the project directory and run index.html to view project
+Go to the project directory and run index.html to view Project
 
 
 
@@ -52,10 +52,10 @@ Go to the project directory and run index.html to view project
 
 - [@chinedugabriel](https://www.https://github.com/chinedugabriel)
 - [@steevCuper](https://github.com/steevCuper)
-- [@Udehmercylina](https://github.com/Udehmercylina)
 
 
-## Tech Stack
+
+## Users
 
 - Lagos State transport
 

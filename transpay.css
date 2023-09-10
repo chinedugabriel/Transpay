@@ -37,7 +37,7 @@ nav div.btn-group-nav{
 nav ul>li>a.nav-link{
     color: #3F3D56;
 }
- div.btn-group-nav>#nav-btn-register{
+ #nav-btn-register{
     display: inline-flex;
     /* height: 3rem; */
     padding: 0.75rem 1rem;
@@ -49,7 +49,7 @@ nav ul>li>a.nav-link{
     color: #fff;
     background: #FF933A;
 }
- div.btn-group-nav>#nav-btn-login{
+ #nav-btn-login{
     display: inline-flex;
     /* height: 3rem; */
     padding: 0.75rem 1rem;
@@ -229,7 +229,7 @@ nav ul>li>a.nav-link{
     width: 88%;
     height: auto ;
     position: relative;
-    padding: 0px;
+    padding: 10px;
     
 }
 .blue-border-text-wrapper>p{

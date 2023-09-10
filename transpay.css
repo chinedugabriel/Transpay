@@ -18,10 +18,7 @@
 .blue-bg{
     background: #238CA4;
 }
-.blue-border{
-    border: 1px solid #238CA4;
 
-}
 .underline-text{
     border-bottom: 3px solid #FF933A;
 }
@@ -122,6 +119,40 @@ nav ul>li>a.nav-link{
 }
 /* About us ends here */
 
+/* support section starts here */
+.blue-border-text-wrapper{
+    border-radius: 2.375rem;
+    border: 1px solid #7CCFE0;
+    width: 33.5rem;
+    height: 35rem;
+    position: relative;
+    
+}
+.blue-border-text-wrapper>p{
+    color: #3F3D56;
+    font-family: Poppins;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 275.542%; /* 4.13313rem */
+    width: 31.4375rem;
+}
+
+.chart-1{
+    bottom: -3.5%;
+    right: -50%;
+}
+.chart-2{
+    top: 30%;
+    left: -66%;
+}
+.chart-3{
+    top: -15%;
+    right: -10%;
+}
+
+/* support section ends here */
+
 
 /* Footer section starts here */
 .footer-font-size{
@@ -189,6 +220,47 @@ nav ul>li>a.nav-link{
     width: 90% !important;
 }
 /* about us page ends here */
+
+
+/* support section starts here */
+.blue-border-text-wrapper{
+    border-radius: 2.375rem;
+    border: 1px solid #7CCFE0;
+    width: 88%;
+    height: auto ;
+    position: relative;
+    padding: 0px;
+    
+}
+.blue-border-text-wrapper>p{
+    color: #3F3D56;
+    font-family: Poppins;
+    font-size: medium;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 215.542%; /* 4.13313rem */
+    width: auto;
+}
+
+.chart-1{
+    bottom: -3.5%;
+    right: -50%;
+    display: none;
+}
+.chart-2{
+    top: 30%;
+    left: -66%;
+    display: none;
+
+}
+.chart-3{
+    top: -15%;
+    right: -10%;
+    display: none;
+
+}
+
+/* support section ends here */
 
 
 }

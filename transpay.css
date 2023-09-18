@@ -19,8 +19,17 @@
     background: #238CA4;
 }
 
+.blue-border{
+    border: 1px solid #238CA4;
+
+}
+
 .underline-text{
     border-bottom: 3px solid #FF933A;
+}
+
+.btn-primary {
+    background-color: #FF933A;
 }
 
 /* custom class ends */

@@ -72,6 +72,18 @@ nav ul>li>a.nav-link{
 }
 /* Nav ends here */
 
+/* Remove bootstrap preStyle starts here  */
+input,textarea,select{
+    box-shadow: none !important;
+}
+input:focus,textarea:focus,select:focus{
+    border: 1px solid #238CA4 !important;
+    
+}
+
+
+/* Remove bootstrap preStyle ends here  */
+
 /* sec1-home Starts here */
 /* section.sec1-home .sec1-text-wrapper{
 

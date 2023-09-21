@@ -52,7 +52,7 @@ Go to the project directory and run index.html to view Project
 ## Authors
 
 - [@chinedugabriel](https://www.https://github.com/chinedugabriel)
-- [@steevCuper](https://github.com/steevCuper)
+
 
 
 
